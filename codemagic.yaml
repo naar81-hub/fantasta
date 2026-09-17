@@ -1,6 +1,6 @@
 workflows:
   react-native-android:
-    name: React Native Android APK
+    name: React Native Android APK Release
     max_build_duration: 60
     instance_type: mac_mini_m2
     environment:
@@ -11,16 +11,15 @@ workflows:
           npm install
       - name: Generate Android folder if missing
         script: |
-          # Se Manus ha usato Expo, genera la cartella Android nativa automaticamente
           if [ ! -d "android" ]; then
             npx expo prebuild --platform android --clean
           fi
       - name: Fix execution permissions
         script: |
-          # Forza i permessi di esecuzione per evitare blocchi del server
           cd android && chmod +x gradlew
-      - name: Build Android APK
+      - name: Build Android APK Release
         script: |
-          cd android && ./gradlew assembleDebug
+          # Questo comando compila l'app definitiva includendo tutto il codice al suo interno
+          cd android && ./gradlew assembleRelease
     artifacts:
-      - android/app/build/outputs/apk/debug/*.apk
+      - android/app/build/outputs/apk/release/*.apk
