@@ -1,0 +1,4172 @@
+{
+  "source": "Fantacalcio.it",
+  "season": "2026/27",
+  "updatedAt": "2026-09-16T11:57:18.390Z",
+  "players": [
+    {
+      "name": "Malen",
+      "team": "ROM",
+      "role": "A",
+      "price": 37,
+      "fvm": 450
+    },
+    {
+      "name": "Martinez L.",
+      "team": "INT",
+      "role": "A",
+      "price": 34,
+      "fvm": 382
+    },
+    {
+      "name": "Paz N.",
+      "team": "COM",
+      "role": "C",
+      "price": 30,
+      "fvm": 257
+    },
+    {
+      "name": "Dimarco",
+      "team": "INT",
+      "role": "D",
+      "price": 30,
+      "fvm": 250
+    },
+    {
+      "name": "Thuram",
+      "team": "INT",
+      "role": "A",
+      "price": 30,
+      "fvm": 271
+    },
+    {
+      "name": "Hojlund",
+      "team": "NAP",
+      "role": "A",
+      "price": 28,
+      "fvm": 284
+    },
+    {
+      "name": "Calhanoglu",
+      "team": "INT",
+      "role": "C",
+      "price": 27,
+      "fvm": 237
+    },
+    {
+      "name": "Ramos G.",
+      "team": "MIL",
+      "role": "A",
+      "price": 26,
+      "fvm": 220
+    },
+    {
+      "name": "McTominay",
+      "team": "NAP",
+      "role": "C",
+      "price": 26,
+      "fvm": 150
+    },
+    {
+      "name": "Orsolini",
+      "team": "BOL",
+      "role": "C",
+      "price": 24,
+      "fvm": 146
+    },
+    {
+      "name": "Kean",
+      "team": "COM",
+      "role": "A",
+      "price": 24,
+      "fvm": 165
+    },
+    {
+      "name": "Kolo Muani",
+      "team": "JUV",
+      "role": "A",
+      "price": 24,
+      "fvm": 120
+    },
+    {
+      "name": "Pulisic",
+      "team": "MIL",
+      "role": "C",
+      "price": 24,
+      "fvm": 142
+    },
+    {
+      "name": "Rabiot",
+      "team": "MIL",
+      "role": "C",
+      "price": 23,
+      "fvm": 135
+    },
+    {
+      "name": "Woltemade",
+      "team": "JUV",
+      "role": "A",
+      "price": 22,
+      "fvm": 127
+    },
+    {
+      "name": "Douvikas",
+      "team": "COM",
+      "role": "A",
+      "price": 21,
+      "fvm": 165
+    },
+    {
+      "name": "Yildiz",
+      "team": "JUV",
+      "role": "A",
+      "price": 21,
+      "fvm": 75
+    },
+    {
+      "name": "Scamacca",
+      "team": "ATA",
+      "role": "A",
+      "price": 20,
+      "fvm": 104
+    },
+    {
+      "name": "Baturina",
+      "team": "COM",
+      "role": "C",
+      "price": 20,
+      "fvm": 155
+    },
+    {
+      "name": "Mora",
+      "team": "ROM",
+      "role": "C",
+      "price": 20,
+      "fvm": 91
+    },
+    {
+      "name": "Svilar",
+      "team": "ROM",
+      "role": "P",
+      "price": 19,
+      "fvm": 90
+    },
+    {
+      "name": "Davis K.",
+      "team": "UDI",
+      "role": "A",
+      "price": 19,
+      "fvm": 115
+    },
+    {
+      "name": "Da Cunha",
+      "team": "COM",
+      "role": "C",
+      "price": 18,
+      "fvm": 85
+    },
+    {
+      "name": "Barella",
+      "team": "INT",
+      "role": "C",
+      "price": 18,
+      "fvm": 88
+    },
+    {
+      "name": "Esposito F.P.",
+      "team": "INT",
+      "role": "A",
+      "price": 18,
+      "fvm": 110
+    },
+    {
+      "name": "Leao",
+      "team": "MIL",
+      "role": "A",
+      "price": 18,
+      "fvm": 75
+    },
+    {
+      "name": "Wesley",
+      "team": "ROM",
+      "role": "D",
+      "price": 18,
+      "fvm": 87
+    },
+    {
+      "name": "Berardi",
+      "team": "SAS",
+      "role": "A",
+      "price": 18,
+      "fvm": 106
+    },
+    {
+      "name": "Molina N.",
+      "team": "ROM",
+      "role": "D",
+      "price": 18,
+      "fvm": 63
+    },
+    {
+      "name": "Krstovic",
+      "team": "ATA",
+      "role": "A",
+      "price": 17,
+      "fvm": 90
+    },
+    {
+      "name": "De Bruyne",
+      "team": "NAP",
+      "role": "C",
+      "price": 17,
+      "fvm": 103
+    },
+    {
+      "name": "Zaniolo",
+      "team": "UDI",
+      "role": "C",
+      "price": 17,
+      "fvm": 73
+    },
+    {
+      "name": "Carnesecchi",
+      "team": "ATA",
+      "role": "P",
+      "price": 16,
+      "fvm": 56
+    },
+    {
+      "name": "De Ketelaere",
+      "team": "ATA",
+      "role": "A",
+      "price": 16,
+      "fvm": 86
+    },
+    {
+      "name": "Dovbyk",
+      "team": "BOL",
+      "role": "A",
+      "price": 16,
+      "fvm": 40
+    },
+    {
+      "name": "Atta",
+      "team": "FIO",
+      "role": "C",
+      "price": 16,
+      "fvm": 68
+    },
+    {
+      "name": "Martinez Jo.",
+      "team": "INT",
+      "role": "P",
+      "price": 16,
+      "fvm": 63
+    },
+    {
+      "name": "Bremer",
+      "team": "JUV",
+      "role": "D",
+      "price": 16,
+      "fvm": 56
+    },
+    {
+      "name": "McKennie",
+      "team": "JUV",
+      "role": "C",
+      "price": 16,
+      "fvm": 61
+    },
+    {
+      "name": "Zaccagni",
+      "team": "LAZ",
+      "role": "C",
+      "price": 16,
+      "fvm": 100
+    },
+    {
+      "name": "Pellegrino M.",
+      "team": "FIO",
+      "role": "A",
+      "price": 16,
+      "fvm": 57
+    },
+    {
+      "name": "Dybala",
+      "team": "ROM",
+      "role": "A",
+      "price": 16,
+      "fvm": 113
+    },
+    {
+      "name": "Laurient&#xE8;",
+      "team": "SAS",
+      "role": "A",
+      "price": 16,
+      "fvm": 81
+    },
+    {
+      "name": "Vicario",
+      "team": "JUV",
+      "role": "P",
+      "price": 16,
+      "fvm": 62
+    },
+    {
+      "name": "Butez",
+      "team": "COM",
+      "role": "P",
+      "price": 15,
+      "fvm": 47
+    },
+    {
+      "name": "Akanji",
+      "team": "INT",
+      "role": "D",
+      "price": 15,
+      "fvm": 41
+    },
+    {
+      "name": "Mancini",
+      "team": "ROM",
+      "role": "D",
+      "price": 15,
+      "fvm": 54
+    },
+    {
+      "name": "Soul&#xE8;",
+      "team": "ROM",
+      "role": "A",
+      "price": 15,
+      "fvm": 55
+    },
+    {
+      "name": "Diao",
+      "team": "COM",
+      "role": "A",
+      "price": 14,
+      "fvm": 70
+    },
+    {
+      "name": "Bastoni",
+      "team": "INT",
+      "role": "D",
+      "price": 14,
+      "fvm": 42
+    },
+    {
+      "name": "Maignan",
+      "team": "MIL",
+      "role": "P",
+      "price": 14,
+      "fvm": 51
+    },
+    {
+      "name": "Rrahmani",
+      "team": "NAP",
+      "role": "D",
+      "price": 14,
+      "fvm": 51
+    },
+    {
+      "name": "Santos A.",
+      "team": "NAP",
+      "role": "A",
+      "price": 14,
+      "fvm": 55
+    },
+    {
+      "name": "Castro S.",
+      "team": "ROM",
+      "role": "A",
+      "price": 14,
+      "fvm": 60
+    },
+    {
+      "name": "Simeone",
+      "team": "TOR",
+      "role": "A",
+      "price": 14,
+      "fvm": 63
+    },
+    {
+      "name": "Mastantuono",
+      "team": "FIO",
+      "role": "C",
+      "price": 14,
+      "fvm": 39
+    },
+    {
+      "name": "Beto",
+      "team": "FIO",
+      "role": "A",
+      "price": 14,
+      "fvm": 52
+    },
+    {
+      "name": "Samardzic",
+      "team": "ATA",
+      "role": "C",
+      "price": 13,
+      "fvm": 37
+    },
+    {
+      "name": "Raspadori",
+      "team": "ATA",
+      "role": "A",
+      "price": 13,
+      "fvm": 50
+    },
+    {
+      "name": "Esposito Se.",
+      "team": "SAS",
+      "role": "A",
+      "price": 13,
+      "fvm": 45
+    },
+    {
+      "name": "Gudmundsson A.",
+      "team": "LAZ",
+      "role": "C",
+      "price": 13,
+      "fvm": 41
+    },
+    {
+      "name": "Zielinski",
+      "team": "INT",
+      "role": "C",
+      "price": 13,
+      "fvm": 41
+    },
+    {
+      "name": "Kalulu",
+      "team": "JUV",
+      "role": "D",
+      "price": 13,
+      "fvm": 42
+    },
+    {
+      "name": "Conceicao",
+      "team": "JUV",
+      "role": "C",
+      "price": 13,
+      "fvm": 63
+    },
+    {
+      "name": "Taylor K.",
+      "team": "LAZ",
+      "role": "C",
+      "price": 13,
+      "fvm": 43
+    },
+    {
+      "name": "Pavlovic",
+      "team": "MIL",
+      "role": "D",
+      "price": 13,
+      "fvm": 43
+    },
+    {
+      "name": "Nkunku",
+      "team": "MIL",
+      "role": "A",
+      "price": 13,
+      "fvm": 20
+    },
+    {
+      "name": "Solet",
+      "team": "UDI",
+      "role": "D",
+      "price": 13,
+      "fvm": 35
+    },
+    {
+      "name": "Ekkelenkamp",
+      "team": "UDI",
+      "role": "C",
+      "price": 13,
+      "fvm": 64
+    },
+    {
+      "name": "Moreira",
+      "team": "MIL",
+      "role": "C",
+      "price": 13,
+      "fvm": 50
+    },
+    {
+      "name": "Gonzalez N.",
+      "team": "JUV",
+      "role": "C",
+      "price": 13,
+      "fvm": 48
+    },
+    {
+      "name": "Ederson D.S.",
+      "team": "ATA",
+      "role": "C",
+      "price": 12,
+      "fvm": 48
+    },
+    {
+      "name": "Ramon",
+      "team": "COM",
+      "role": "D",
+      "price": 12,
+      "fvm": 35
+    },
+    {
+      "name": "Bisseck",
+      "team": "INT",
+      "role": "D",
+      "price": 12,
+      "fvm": 36
+    },
+    {
+      "name": "Stones",
+      "team": "INT",
+      "role": "D",
+      "price": 12,
+      "fvm": 19
+    },
+    {
+      "name": "Gila",
+      "team": "MIL",
+      "role": "D",
+      "price": 12,
+      "fvm": 29
+    },
+    {
+      "name": "Modric",
+      "team": "MIL",
+      "role": "C",
+      "price": 12,
+      "fvm": 44
+    },
+    {
+      "name": "Di Lorenzo",
+      "team": "NAP",
+      "role": "D",
+      "price": 12,
+      "fvm": 37
+    },
+    {
+      "name": "N&#x27;Dicka",
+      "team": "ROM",
+      "role": "D",
+      "price": 12,
+      "fvm": 37
+    },
+    {
+      "name": "Vlasic",
+      "team": "TOR",
+      "role": "C",
+      "price": 12,
+      "fvm": 60
+    },
+    {
+      "name": "Adams A.",
+      "team": "VEN",
+      "role": "A",
+      "price": 12,
+      "fvm": 36
+    },
+    {
+      "name": "Jones C.",
+      "team": "INT",
+      "role": "C",
+      "price": 12,
+      "fvm": 36
+    },
+    {
+      "name": "Caprile",
+      "team": "CAG",
+      "role": "P",
+      "price": 11,
+      "fvm": 25
+    },
+    {
+      "name": "Perrone",
+      "team": "COM",
+      "role": "C",
+      "price": 11,
+      "fvm": 34
+    },
+    {
+      "name": "Rodriguez Je.",
+      "team": "COM",
+      "role": "C",
+      "price": 11,
+      "fvm": 24
+    },
+    {
+      "name": "Raimondo",
+      "team": "FRO",
+      "role": "A",
+      "price": 11,
+      "fvm": 60
+    },
+    {
+      "name": "Baldanzi",
+      "team": "GEN",
+      "role": "C",
+      "price": 11,
+      "fvm": 22
+    },
+    {
+      "name": "Frattesi",
+      "team": "LAZ",
+      "role": "C",
+      "price": 11,
+      "fvm": 117
+    },
+    {
+      "name": "Alajbegovic",
+      "team": "JUV",
+      "role": "C",
+      "price": 11,
+      "fvm": 40
+    },
+    {
+      "name": "Mandas",
+      "team": "LAZ",
+      "role": "P",
+      "price": 11,
+      "fvm": 35
+    },
+    {
+      "name": "Hermoso",
+      "team": "ROM",
+      "role": "D",
+      "price": 11,
+      "fvm": 34
+    },
+    {
+      "name": "Bowie",
+      "team": "SAS",
+      "role": "A",
+      "price": 11,
+      "fvm": 34
+    },
+    {
+      "name": "Pinamonti",
+      "team": "LAZ",
+      "role": "A",
+      "price": 11,
+      "fvm": 51
+    },
+    {
+      "name": "Adams C.",
+      "team": "TOR",
+      "role": "A",
+      "price": 11,
+      "fvm": 27
+    },
+    {
+      "name": "Kevin Carlos",
+      "team": "CAG",
+      "role": "A",
+      "price": 11,
+      "fvm": 25
+    },
+    {
+      "name": "Romero D.",
+      "team": "PAR",
+      "role": "A",
+      "price": 11,
+      "fvm": 35
+    },
+    {
+      "name": "Spence",
+      "team": "INT",
+      "role": "D",
+      "price": 11,
+      "fvm": 23
+    },
+    {
+      "name": "Kessi&#xE8;",
+      "team": "ATA",
+      "role": "C",
+      "price": 11,
+      "fvm": 38
+    },
+    {
+      "name": "Goncalves P.",
+      "team": "FIO",
+      "role": "C",
+      "price": 11,
+      "fvm": 40
+    },
+    {
+      "name": "Scalvini",
+      "team": "ATA",
+      "role": "D",
+      "price": 10,
+      "fvm": 25
+    },
+    {
+      "name": "Skorupski",
+      "team": "BOL",
+      "role": "P",
+      "price": 10,
+      "fvm": 28
+    },
+    {
+      "name": "Bernardeschi",
+      "team": "BOL",
+      "role": "C",
+      "price": 10,
+      "fvm": 26
+    },
+    {
+      "name": "Rowe",
+      "team": "ATA",
+      "role": "C",
+      "price": 10,
+      "fvm": 37
+    },
+    {
+      "name": "De Gea",
+      "team": "FIO",
+      "role": "P",
+      "price": 10,
+      "fvm": 24
+    },
+    {
+      "name": "Mandragora",
+      "team": "TOR",
+      "role": "C",
+      "price": 10,
+      "fvm": 35
+    },
+    {
+      "name": "Ostigard",
+      "team": "GEN",
+      "role": "D",
+      "price": 10,
+      "fvm": 32
+    },
+    {
+      "name": "Colombo",
+      "team": "GEN",
+      "role": "A",
+      "price": 10,
+      "fvm": 51
+    },
+    {
+      "name": "Diouf",
+      "team": "INT",
+      "role": "C",
+      "price": 10,
+      "fvm": 53
+    },
+    {
+      "name": "Cancellieri",
+      "team": "LAZ",
+      "role": "C",
+      "price": 10,
+      "fvm": 21
+    },
+    {
+      "name": "Dia",
+      "team": "LAZ",
+      "role": "A",
+      "price": 10,
+      "fvm": 20
+    },
+    {
+      "name": "Saelemaekers",
+      "team": "MIL",
+      "role": "C",
+      "price": 10,
+      "fvm": 28
+    },
+    {
+      "name": "Meret",
+      "team": "NAP",
+      "role": "P",
+      "price": 10,
+      "fvm": 45
+    },
+    {
+      "name": "Lobotka",
+      "team": "NAP",
+      "role": "C",
+      "price": 10,
+      "fvm": 28
+    },
+    {
+      "name": "Zambo Anguissa",
+      "team": "NAP",
+      "role": "C",
+      "price": 10,
+      "fvm": 30
+    },
+    {
+      "name": "Politano",
+      "team": "NAP",
+      "role": "C",
+      "price": 10,
+      "fvm": 35
+    },
+    {
+      "name": "Lukaku",
+      "team": "NAP",
+      "role": "A",
+      "price": 10,
+      "fvm": 45
+    },
+    {
+      "name": "Kon&#xE8; M.",
+      "team": "ROM",
+      "role": "C",
+      "price": 10,
+      "fvm": 38
+    },
+    {
+      "name": "Thorstvedt",
+      "team": "SAS",
+      "role": "C",
+      "price": 10,
+      "fvm": 32
+    },
+    {
+      "name": "Yeboah J.",
+      "team": "VEN",
+      "role": "A",
+      "price": 10,
+      "fvm": 30
+    },
+    {
+      "name": "Tour&#xE8; E.",
+      "team": "PAR",
+      "role": "A",
+      "price": 10,
+      "fvm": 30
+    },
+    {
+      "name": "Chalobah T.",
+      "team": "COM",
+      "role": "D",
+      "price": 10,
+      "fvm": 28
+    },
+    {
+      "name": "Maldini",
+      "team": "CAG",
+      "role": "A",
+      "price": 9,
+      "fvm": 28
+    },
+    {
+      "name": "Dod&#xF2;",
+      "team": "FIO",
+      "role": "D",
+      "price": 9,
+      "fvm": 16
+    },
+    {
+      "name": "Piccoli",
+      "team": "BOL",
+      "role": "A",
+      "price": 9,
+      "fvm": 43
+    },
+    {
+      "name": "Cal&#xF2;",
+      "team": "FRO",
+      "role": "C",
+      "price": 9,
+      "fvm": 30
+    },
+    {
+      "name": "Ghedjemis",
+      "team": "FRO",
+      "role": "A",
+      "price": 9,
+      "fvm": 26
+    },
+    {
+      "name": "Kvernadze",
+      "team": "FRO",
+      "role": "A",
+      "price": 9,
+      "fvm": 38
+    },
+    {
+      "name": "Vasquez",
+      "team": "GEN",
+      "role": "D",
+      "price": 9,
+      "fvm": 30
+    },
+    {
+      "name": "Carlos Augusto",
+      "team": "INT",
+      "role": "D",
+      "price": 9,
+      "fvm": 25
+    },
+    {
+      "name": "Di Gregorio",
+      "team": "JUV",
+      "role": "P",
+      "price": 9,
+      "fvm": 10
+    },
+    {
+      "name": "Thuram K.",
+      "team": "JUV",
+      "role": "C",
+      "price": 9,
+      "fvm": 15
+    },
+    {
+      "name": "Isaksen",
+      "team": "LAZ",
+      "role": "C",
+      "price": 9,
+      "fvm": 22
+    },
+    {
+      "name": "Ratkov",
+      "team": "LAZ",
+      "role": "A",
+      "price": 9,
+      "fvm": 22
+    },
+    {
+      "name": "Tiago Gabriel",
+      "team": "LEC",
+      "role": "D",
+      "price": 9,
+      "fvm": 23
+    },
+    {
+      "name": "Coulibaly L.",
+      "team": "LEC",
+      "role": "C",
+      "price": 9,
+      "fvm": 16
+    },
+    {
+      "name": "Mangas",
+      "team": "MON",
+      "role": "D",
+      "price": 9,
+      "fvm": 25
+    },
+    {
+      "name": "Colpani",
+      "team": "MON",
+      "role": "C",
+      "price": 9,
+      "fvm": 15
+    },
+    {
+      "name": "Cutrone",
+      "team": "MON",
+      "role": "A",
+      "price": 9,
+      "fvm": 17
+    },
+    {
+      "name": "Vergara",
+      "team": "NAP",
+      "role": "C",
+      "price": 9,
+      "fvm": 32
+    },
+    {
+      "name": "Valeri",
+      "team": "PAR",
+      "role": "D",
+      "price": 9,
+      "fvm": 22
+    },
+    {
+      "name": "Cristante",
+      "team": "ROM",
+      "role": "C",
+      "price": 9,
+      "fvm": 29
+    },
+    {
+      "name": "Adzic",
+      "team": "SAS",
+      "role": "C",
+      "price": 9,
+      "fvm": 16
+    },
+    {
+      "name": "Volpato",
+      "team": "SAS",
+      "role": "C",
+      "price": 9,
+      "fvm": 24
+    },
+    {
+      "name": "Casadei",
+      "team": "TOR",
+      "role": "C",
+      "price": 9,
+      "fvm": 20
+    },
+    {
+      "name": "Kamara H.",
+      "team": "UDI",
+      "role": "D",
+      "price": 9,
+      "fvm": 12
+    },
+    {
+      "name": "Couto",
+      "team": "COM",
+      "role": "D",
+      "price": 9,
+      "fvm": 31
+    },
+    {
+      "name": "Pellegrini Lo.",
+      "team": "ROM",
+      "role": "C",
+      "price": 9,
+      "fvm": 18
+    },
+    {
+      "name": "Osmajic",
+      "team": "GEN",
+      "role": "A",
+      "price": 9,
+      "fvm": 31
+    },
+    {
+      "name": "Bobcek",
+      "team": "FRO",
+      "role": "A",
+      "price": 9,
+      "fvm": 13
+    },
+    {
+      "name": "Perri",
+      "team": "TOR",
+      "role": "P",
+      "price": 9,
+      "fvm": 17
+    },
+    {
+      "name": "Zappacosta",
+      "team": "ATA",
+      "role": "D",
+      "price": 8,
+      "fvm": 14
+    },
+    {
+      "name": "Pasalic",
+      "team": "ATA",
+      "role": "C",
+      "price": 8,
+      "fvm": 21
+    },
+    {
+      "name": "Lucum&#xEC;",
+      "team": "JUV",
+      "role": "D",
+      "price": 8,
+      "fvm": 16
+    },
+    {
+      "name": "Miranda J.",
+      "team": "BOL",
+      "role": "D",
+      "price": 8,
+      "fvm": 22
+    },
+    {
+      "name": "Ferguson",
+      "team": "BOL",
+      "role": "C",
+      "price": 8,
+      "fvm": 22
+    },
+    {
+      "name": "Cambiaghi",
+      "team": "BOL",
+      "role": "C",
+      "price": 8,
+      "fvm": 22
+    },
+    {
+      "name": "Dallinga",
+      "team": "BOL",
+      "role": "A",
+      "price": 8,
+      "fvm": 10
+    },
+    {
+      "name": "Obert",
+      "team": "CAG",
+      "role": "D",
+      "price": 8,
+      "fvm": 15
+    },
+    {
+      "name": "Adopo",
+      "team": "CAG",
+      "role": "C",
+      "price": 8,
+      "fvm": 13
+    },
+    {
+      "name": "Romano",
+      "team": "CAG",
+      "role": "C",
+      "price": 8,
+      "fvm": 21
+    },
+    {
+      "name": "Kaiki",
+      "team": "COM",
+      "role": "D",
+      "price": 8,
+      "fvm": 16
+    },
+    {
+      "name": "Dragusin",
+      "team": "FIO",
+      "role": "D",
+      "price": 8,
+      "fvm": 18
+    },
+    {
+      "name": "Jimenez A.",
+      "team": "FIO",
+      "role": "D",
+      "price": 8,
+      "fvm": 17
+    },
+    {
+      "name": "Fagioli",
+      "team": "FIO",
+      "role": "C",
+      "price": 8,
+      "fvm": 20
+    },
+    {
+      "name": "Ndour",
+      "team": "FIO",
+      "role": "C",
+      "price": 8,
+      "fvm": 17
+    },
+    {
+      "name": "Norton-Cuffy",
+      "team": "GEN",
+      "role": "D",
+      "price": 8,
+      "fvm": 15
+    },
+    {
+      "name": "Vitinha O.",
+      "team": "GEN",
+      "role": "A",
+      "price": 8,
+      "fvm": 12
+    },
+    {
+      "name": "Sucic P.",
+      "team": "INT",
+      "role": "C",
+      "price": 8,
+      "fvm": 20
+    },
+    {
+      "name": "Bonny",
+      "team": "INT",
+      "role": "A",
+      "price": 8,
+      "fvm": 18
+    },
+    {
+      "name": "Cambiaso",
+      "team": "JUV",
+      "role": "D",
+      "price": 8,
+      "fvm": 10
+    },
+    {
+      "name": "Locatelli",
+      "team": "JUV",
+      "role": "C",
+      "price": 8,
+      "fvm": 15
+    },
+    {
+      "name": "Zhegrova",
+      "team": "JUV",
+      "role": "C",
+      "price": 8,
+      "fvm": 25
+    },
+    {
+      "name": "David",
+      "team": "JUV",
+      "role": "A",
+      "price": 8,
+      "fvm": 25
+    },
+    {
+      "name": "Doekhi",
+      "team": "LAZ",
+      "role": "D",
+      "price": 8,
+      "fvm": 15
+    },
+    {
+      "name": "Noslin",
+      "team": "LAZ",
+      "role": "A",
+      "price": 8,
+      "fvm": 15
+    },
+    {
+      "name": "Falcone",
+      "team": "LEC",
+      "role": "P",
+      "price": 8,
+      "fvm": 24
+    },
+    {
+      "name": "Geubbels",
+      "team": "LEC",
+      "role": "A",
+      "price": 8,
+      "fvm": 18
+    },
+    {
+      "name": "Bartesaghi",
+      "team": "MIL",
+      "role": "D",
+      "price": 8,
+      "fvm": 12
+    },
+    {
+      "name": "Chukwueze",
+      "team": "MIL",
+      "role": "C",
+      "price": 8,
+      "fvm": 20
+    },
+    {
+      "name": "Gutierrez",
+      "team": "NAP",
+      "role": "D",
+      "price": 8,
+      "fvm": 26
+    },
+    {
+      "name": "Spinazzola",
+      "team": "NAP",
+      "role": "D",
+      "price": 8,
+      "fvm": 24
+    },
+    {
+      "name": "Delprato",
+      "team": "PAR",
+      "role": "D",
+      "price": 8,
+      "fvm": 21
+    },
+    {
+      "name": "Pisilli",
+      "team": "ROM",
+      "role": "C",
+      "price": 8,
+      "fvm": 30
+    },
+    {
+      "name": "Kon&#xE8; I.",
+      "team": "SAS",
+      "role": "C",
+      "price": 8,
+      "fvm": 20
+    },
+    {
+      "name": "Comuzzo",
+      "team": "TOR",
+      "role": "D",
+      "price": 8,
+      "fvm": 13
+    },
+    {
+      "name": "Okoye",
+      "team": "UDI",
+      "role": "P",
+      "price": 8,
+      "fvm": 26
+    },
+    {
+      "name": "Vojvoda",
+      "team": "UDI",
+      "role": "D",
+      "price": 8,
+      "fvm": 19
+    },
+    {
+      "name": "Karlstrom",
+      "team": "UDI",
+      "role": "C",
+      "price": 8,
+      "fvm": 20
+    },
+    {
+      "name": "Schmid",
+      "team": "FRO",
+      "role": "C",
+      "price": 8,
+      "fvm": 26
+    },
+    {
+      "name": "Theate",
+      "team": "BOL",
+      "role": "D",
+      "price": 8,
+      "fvm": 20
+    },
+    {
+      "name": "Belghali",
+      "team": "TOR",
+      "role": "D",
+      "price": 8,
+      "fvm": 17
+    },
+    {
+      "name": "Diego Carlos",
+      "team": "PAR",
+      "role": "D",
+      "price": 8,
+      "fvm": 21
+    },
+    {
+      "name": "Sanchez Ro.",
+      "team": "COM",
+      "role": "P",
+      "price": 8,
+      "fvm": 15
+    },
+    {
+      "name": "Djimsiti",
+      "team": "ATA",
+      "role": "D",
+      "price": 7,
+      "fvm": 16
+    },
+    {
+      "name": "Hien",
+      "team": "ATA",
+      "role": "D",
+      "price": 7,
+      "fvm": 11
+    },
+    {
+      "name": "Gaetano",
+      "team": "ATA",
+      "role": "C",
+      "price": 7,
+      "fvm": 28
+    },
+    {
+      "name": "Zalewski",
+      "team": "ATA",
+      "role": "C",
+      "price": 7,
+      "fvm": 13
+    },
+    {
+      "name": "Pobega",
+      "team": "BOL",
+      "role": "C",
+      "price": 7,
+      "fvm": 12
+    },
+    {
+      "name": "Odgaard",
+      "team": "BOL",
+      "role": "C",
+      "price": 7,
+      "fvm": 14
+    },
+    {
+      "name": "Mina",
+      "team": "CAG",
+      "role": "D",
+      "price": 7,
+      "fvm": 15
+    },
+    {
+      "name": "Z&#xE8; Pedro",
+      "team": "CAG",
+      "role": "D",
+      "price": 7,
+      "fvm": 14
+    },
+    {
+      "name": "Winks",
+      "team": "CAG",
+      "role": "C",
+      "price": 7,
+      "fvm": 15
+    },
+    {
+      "name": "Fazzini",
+      "team": "CAG",
+      "role": "C",
+      "price": 7,
+      "fvm": 28
+    },
+    {
+      "name": "Mendy P.",
+      "team": "CAG",
+      "role": "A",
+      "price": 7,
+      "fvm": 16
+    },
+    {
+      "name": "Valle",
+      "team": "COM",
+      "role": "D",
+      "price": 7,
+      "fvm": 23
+    },
+    {
+      "name": "Bracaglia",
+      "team": "FRO",
+      "role": "D",
+      "price": 7,
+      "fvm": 16
+    },
+    {
+      "name": "Oyono A.",
+      "team": "FRO",
+      "role": "D",
+      "price": 7,
+      "fvm": 10
+    },
+    {
+      "name": "Bijlow",
+      "team": "GEN",
+      "role": "P",
+      "price": 7,
+      "fvm": 12
+    },
+    {
+      "name": "Frendrup",
+      "team": "GEN",
+      "role": "C",
+      "price": 7,
+      "fvm": 19
+    },
+    {
+      "name": "Celik",
+      "team": "JUV",
+      "role": "D",
+      "price": 7,
+      "fvm": 16
+    },
+    {
+      "name": "Koopmeiners",
+      "team": "JUV",
+      "role": "C",
+      "price": 7,
+      "fvm": 20
+    },
+    {
+      "name": "Tavares N.",
+      "team": "LAZ",
+      "role": "D",
+      "price": 7,
+      "fvm": 27
+    },
+    {
+      "name": "Stulic",
+      "team": "LEC",
+      "role": "A",
+      "price": 7,
+      "fvm": 11
+    },
+    {
+      "name": "Akinsanmiro",
+      "team": "MON",
+      "role": "C",
+      "price": 7,
+      "fvm": 11
+    },
+    {
+      "name": "Varela G.",
+      "team": "MON",
+      "role": "A",
+      "price": 7,
+      "fvm": 37
+    },
+    {
+      "name": "Suzuki",
+      "team": "PAR",
+      "role": "P",
+      "price": 7,
+      "fvm": 20
+    },
+    {
+      "name": "Bernab&#xE8;",
+      "team": "PAR",
+      "role": "C",
+      "price": 7,
+      "fvm": 30
+    },
+    {
+      "name": "Koulierakis",
+      "team": "ROM",
+      "role": "D",
+      "price": 7,
+      "fvm": 10
+    },
+    {
+      "name": "Idzes",
+      "team": "SAS",
+      "role": "D",
+      "price": 7,
+      "fvm": 17
+    },
+    {
+      "name": "Doig",
+      "team": "SAS",
+      "role": "D",
+      "price": 7,
+      "fvm": 10
+    },
+    {
+      "name": "Matic",
+      "team": "SAS",
+      "role": "C",
+      "price": 7,
+      "fvm": 16
+    },
+    {
+      "name": "Coco",
+      "team": "TOR",
+      "role": "D",
+      "price": 7,
+      "fvm": 14
+    },
+    {
+      "name": "Ismajli",
+      "team": "TOR",
+      "role": "D",
+      "price": 7,
+      "fvm": 12
+    },
+    {
+      "name": "Cacciamani",
+      "team": "TOR",
+      "role": "C",
+      "price": 7,
+      "fvm": 26
+    },
+    {
+      "name": "Unai Gomez",
+      "team": "UDI",
+      "role": "C",
+      "price": 7,
+      "fvm": 14
+    },
+    {
+      "name": "Busio",
+      "team": "VEN",
+      "role": "C",
+      "price": 7,
+      "fvm": 14
+    },
+    {
+      "name": "Rrahmani Al.",
+      "team": "VEN",
+      "role": "A",
+      "price": 7,
+      "fvm": 12
+    },
+    {
+      "name": "Sow",
+      "team": "GEN",
+      "role": "C",
+      "price": 7,
+      "fvm": 15
+    },
+    {
+      "name": "Fortini",
+      "team": "TOR",
+      "role": "D",
+      "price": 7,
+      "fvm": 12
+    },
+    {
+      "name": "Leysen F.",
+      "team": "SAS",
+      "role": "D",
+      "price": 7,
+      "fvm": 12
+    },
+    {
+      "name": "Balerdi",
+      "team": "ROM",
+      "role": "D",
+      "price": 7,
+      "fvm": 14
+    },
+    {
+      "name": "Hutchinson",
+      "team": "MIL",
+      "role": "C",
+      "price": 7,
+      "fvm": 18
+    },
+    {
+      "name": "Monteiro J.",
+      "team": "LEC",
+      "role": "C",
+      "price": 7,
+      "fvm": 21
+    },
+    {
+      "name": "Sarr P.",
+      "team": "JUV",
+      "role": "C",
+      "price": 7,
+      "fvm": 23
+    },
+    {
+      "name": "Zeballos",
+      "team": "MON",
+      "role": "A",
+      "price": 7,
+      "fvm": 21
+    },
+    {
+      "name": "Mbangula",
+      "team": "BOL",
+      "role": "C",
+      "price": 7,
+      "fvm": 20
+    },
+    {
+      "name": "Gnonto",
+      "team": "FIO",
+      "role": "A",
+      "price": 7,
+      "fvm": 20
+    },
+    {
+      "name": "Braganca",
+      "team": "TOR",
+      "role": "C",
+      "price": 7,
+      "fvm": 19
+    },
+    {
+      "name": "El Shaarawy",
+      "team": "GEN",
+      "role": "C",
+      "price": 7,
+      "fvm": 13
+    },
+    {
+      "name": "Kolasinac",
+      "team": "ATA",
+      "role": "D",
+      "price": 6,
+      "fvm": 12
+    },
+    {
+      "name": "Ahanor",
+      "team": "ATA",
+      "role": "D",
+      "price": 6,
+      "fvm": 13
+    },
+    {
+      "name": "Bernasconi",
+      "team": "ATA",
+      "role": "D",
+      "price": 6,
+      "fvm": 16
+    },
+    {
+      "name": "Heggem",
+      "team": "BOL",
+      "role": "D",
+      "price": 6,
+      "fvm": 14
+    },
+    {
+      "name": "Holm",
+      "team": "BOL",
+      "role": "D",
+      "price": 6,
+      "fvm": 13
+    },
+    {
+      "name": "Zortea",
+      "team": "BOL",
+      "role": "D",
+      "price": 6,
+      "fvm": 15
+    },
+    {
+      "name": "Mutandwa",
+      "team": "CAG",
+      "role": "A",
+      "price": 6,
+      "fvm": 7
+    },
+    {
+      "name": "Kempf",
+      "team": "COM",
+      "role": "D",
+      "price": 6,
+      "fvm": 12
+    },
+    {
+      "name": "Milla",
+      "team": "COM",
+      "role": "C",
+      "price": 6,
+      "fvm": 27
+    },
+    {
+      "name": "Caqueret",
+      "team": "COM",
+      "role": "C",
+      "price": 6,
+      "fvm": 12
+    },
+    {
+      "name": "Liberali",
+      "team": "COM",
+      "role": "C",
+      "price": 6,
+      "fvm": 13
+    },
+    {
+      "name": "Viery",
+      "team": "FIO",
+      "role": "D",
+      "price": 6,
+      "fvm": 13
+    },
+    {
+      "name": "Oulai",
+      "team": "FIO",
+      "role": "C",
+      "price": 6,
+      "fvm": 16
+    },
+    {
+      "name": "Palmisani",
+      "team": "FRO",
+      "role": "P",
+      "price": 6,
+      "fvm": 13
+    },
+    {
+      "name": "Calvani",
+      "team": "FRO",
+      "role": "D",
+      "price": 6,
+      "fvm": 13
+    },
+    {
+      "name": "Monterisi",
+      "team": "FRO",
+      "role": "D",
+      "price": 6,
+      "fvm": 12
+    },
+    {
+      "name": "Zerbin",
+      "team": "FRO",
+      "role": "C",
+      "price": 6,
+      "fvm": 12
+    },
+    {
+      "name": "Marcandalli",
+      "team": "GEN",
+      "role": "D",
+      "price": 6,
+      "fvm": 14
+    },
+    {
+      "name": "Ellertsson",
+      "team": "GEN",
+      "role": "C",
+      "price": 6,
+      "fvm": 14
+    },
+    {
+      "name": "Pavard",
+      "team": "INT",
+      "role": "D",
+      "price": 6,
+      "fvm": 14
+    },
+    {
+      "name": "Perin",
+      "team": "JUV",
+      "role": "P",
+      "price": 6,
+      "fvm": 5
+    },
+    {
+      "name": "Boga",
+      "team": "JUV",
+      "role": "A",
+      "price": 6,
+      "fvm": 23
+    },
+    {
+      "name": "Romagnoli",
+      "team": "LAZ",
+      "role": "D",
+      "price": 6,
+      "fvm": 20
+    },
+    {
+      "name": "Marusic",
+      "team": "LAZ",
+      "role": "D",
+      "price": 6,
+      "fvm": 21
+    },
+    {
+      "name": "Rovella",
+      "team": "LAZ",
+      "role": "C",
+      "price": 6,
+      "fvm": 16
+    },
+    {
+      "name": "Veiga D.",
+      "team": "LEC",
+      "role": "D",
+      "price": 6,
+      "fvm": 12
+    },
+    {
+      "name": "Gallo",
+      "team": "LEC",
+      "role": "D",
+      "price": 6,
+      "fvm": 12
+    },
+    {
+      "name": "Pierotti",
+      "team": "LEC",
+      "role": "C",
+      "price": 6,
+      "fvm": 19
+    },
+    {
+      "name": "Gabbia",
+      "team": "MIL",
+      "role": "D",
+      "price": 6,
+      "fvm": 14
+    },
+    {
+      "name": "Tomori",
+      "team": "MIL",
+      "role": "D",
+      "price": 6,
+      "fvm": 8
+    },
+    {
+      "name": "Gimenez",
+      "team": "MIL",
+      "role": "A",
+      "price": 6,
+      "fvm": 10
+    },
+    {
+      "name": "Birindelli",
+      "team": "MON",
+      "role": "D",
+      "price": 6,
+      "fvm": 14
+    },
+    {
+      "name": "Pessina",
+      "team": "MON",
+      "role": "C",
+      "price": 6,
+      "fvm": 15
+    },
+    {
+      "name": "Buongiorno",
+      "team": "NAP",
+      "role": "D",
+      "price": 6,
+      "fvm": 14
+    },
+    {
+      "name": "Daffara",
+      "team": "PAR",
+      "role": "P",
+      "price": 6,
+      "fvm": 5
+    },
+    {
+      "name": "Circati",
+      "team": "PAR",
+      "role": "D",
+      "price": 6,
+      "fvm": 18
+    },
+    {
+      "name": "Keita M.",
+      "team": "PAR",
+      "role": "C",
+      "price": 6,
+      "fvm": 15
+    },
+    {
+      "name": "Muric",
+      "team": "SAS",
+      "role": "P",
+      "price": 6,
+      "fvm": 14
+    },
+    {
+      "name": "Bakola",
+      "team": "SAS",
+      "role": "C",
+      "price": 6,
+      "fvm": 18
+    },
+    {
+      "name": "Fitz-Jim",
+      "team": "TOR",
+      "role": "C",
+      "price": 6,
+      "fvm": 18
+    },
+    {
+      "name": "Gineitis",
+      "team": "TOR",
+      "role": "C",
+      "price": 6,
+      "fvm": 12
+    },
+    {
+      "name": "Oristanio",
+      "team": "TOR",
+      "role": "C",
+      "price": 6,
+      "fvm": 12
+    },
+    {
+      "name": "Zapata D.",
+      "team": "TOR",
+      "role": "A",
+      "price": 6,
+      "fvm": 12
+    },
+    {
+      "name": "Kristensen T.",
+      "team": "ATA",
+      "role": "D",
+      "price": 6,
+      "fvm": 14
+    },
+    {
+      "name": "Piotrowski",
+      "team": "UDI",
+      "role": "C",
+      "price": 6,
+      "fvm": 13
+    },
+    {
+      "name": "Gueye",
+      "team": "UDI",
+      "role": "A",
+      "price": 6,
+      "fvm": 10
+    },
+    {
+      "name": "Hainaut",
+      "team": "VEN",
+      "role": "D",
+      "price": 6,
+      "fvm": 12
+    },
+    {
+      "name": "Basic",
+      "team": "VEN",
+      "role": "C",
+      "price": 6,
+      "fvm": 16
+    },
+    {
+      "name": "Perez K.",
+      "team": "VEN",
+      "role": "C",
+      "price": 6,
+      "fvm": 15
+    },
+    {
+      "name": "Robinson J.",
+      "team": "MON",
+      "role": "A",
+      "price": 6,
+      "fvm": 13
+    },
+    {
+      "name": "Obrador",
+      "team": "SAS",
+      "role": "D",
+      "price": 6,
+      "fvm": 11
+    },
+    {
+      "name": "Ciss&#xE8; A.",
+      "team": "MIL",
+      "role": "C",
+      "price": 6,
+      "fvm": 38
+    },
+    {
+      "name": "Elmas",
+      "team": "ATA",
+      "role": "C",
+      "price": 6,
+      "fvm": 21
+    },
+    {
+      "name": "Badiashile",
+      "team": "NAP",
+      "role": "D",
+      "price": 6,
+      "fvm": 11
+    },
+    {
+      "name": "Sutalo J.",
+      "team": "LAZ",
+      "role": "D",
+      "price": 6,
+      "fvm": 19
+    },
+    {
+      "name": "Caleta-Car",
+      "team": "SAS",
+      "role": "D",
+      "price": 6,
+      "fvm": 11
+    },
+    {
+      "name": "Sugawara",
+      "team": "CAG",
+      "role": "D",
+      "price": 6,
+      "fvm": 15
+    },
+    {
+      "name": "Leite",
+      "team": "LAZ",
+      "role": "D",
+      "price": 6,
+      "fvm": 14
+    },
+    {
+      "name": "Bellanova",
+      "team": "ATA",
+      "role": "D",
+      "price": 5,
+      "fvm": 17
+    },
+    {
+      "name": "Sulemana K.",
+      "team": "ATA",
+      "role": "A",
+      "price": 5,
+      "fvm": 5
+    },
+    {
+      "name": "Kofler",
+      "team": "CAG",
+      "role": "D",
+      "price": 5,
+      "fvm": 4
+    },
+    {
+      "name": "Rodriguez Ju.",
+      "team": "CAG",
+      "role": "D",
+      "price": 5,
+      "fvm": 14
+    },
+    {
+      "name": "Deiola",
+      "team": "CAG",
+      "role": "C",
+      "price": 5,
+      "fvm": 8
+    },
+    {
+      "name": "Felici",
+      "team": "CAG",
+      "role": "C",
+      "price": 5,
+      "fvm": 7
+    },
+    {
+      "name": "Valdepenas",
+      "team": "FIO",
+      "role": "D",
+      "price": 5,
+      "fvm": 11
+    },
+    {
+      "name": "Fini",
+      "team": "FRO",
+      "role": "C",
+      "price": 5,
+      "fvm": 11
+    },
+    {
+      "name": "Masini",
+      "team": "FRO",
+      "role": "C",
+      "price": 5,
+      "fvm": 8
+    },
+    {
+      "name": "Messias",
+      "team": "GEN",
+      "role": "C",
+      "price": 5,
+      "fvm": 8
+    },
+    {
+      "name": "Gatti",
+      "team": "JUV",
+      "role": "D",
+      "price": 5,
+      "fvm": 12
+    },
+    {
+      "name": "Kelly L.",
+      "team": "JUV",
+      "role": "D",
+      "price": 5,
+      "fvm": 12
+    },
+    {
+      "name": "Pedraza",
+      "team": "LAZ",
+      "role": "D",
+      "price": 5,
+      "fvm": 14
+    },
+    {
+      "name": "Siebert",
+      "team": "LEC",
+      "role": "D",
+      "price": 5,
+      "fvm": 12
+    },
+    {
+      "name": "De Winter",
+      "team": "MIL",
+      "role": "D",
+      "price": 5,
+      "fvm": 24
+    },
+    {
+      "name": "Jashari",
+      "team": "MIL",
+      "role": "C",
+      "price": 5,
+      "fvm": 13
+    },
+    {
+      "name": "Musah",
+      "team": "MIL",
+      "role": "C",
+      "price": 5,
+      "fvm": 16
+    },
+    {
+      "name": "Mota",
+      "team": "MON",
+      "role": "A",
+      "price": 5,
+      "fvm": 8
+    },
+    {
+      "name": "Milinkovic-Savic V.",
+      "team": "NAP",
+      "role": "P",
+      "price": 5,
+      "fvm": 10
+    },
+    {
+      "name": "Beukema",
+      "team": "NAP",
+      "role": "D",
+      "price": 5,
+      "fvm": 10
+    },
+    {
+      "name": "Neres",
+      "team": "NAP",
+      "role": "A",
+      "price": 5,
+      "fvm": 18
+    },
+    {
+      "name": "Nicolussi Caviglia",
+      "team": "PAR",
+      "role": "C",
+      "price": 5,
+      "fvm": 16
+    },
+    {
+      "name": "Almqvist",
+      "team": "PAR",
+      "role": "C",
+      "price": 5,
+      "fvm": 11
+    },
+    {
+      "name": "Ondrejka",
+      "team": "PAR",
+      "role": "C",
+      "price": 5,
+      "fvm": 18
+    },
+    {
+      "name": "Ghilardi",
+      "team": "ROM",
+      "role": "D",
+      "price": 5,
+      "fvm": 8
+    },
+    {
+      "name": "Comert",
+      "team": "TOR",
+      "role": "D",
+      "price": 5,
+      "fvm": 14
+    },
+    {
+      "name": "Pedersen",
+      "team": "TOR",
+      "role": "D",
+      "price": 5,
+      "fvm": 12
+    },
+    {
+      "name": "Njie",
+      "team": "FIO",
+      "role": "C",
+      "price": 5,
+      "fvm": 27
+    },
+    {
+      "name": "Abankwah",
+      "team": "UDI",
+      "role": "D",
+      "price": 5,
+      "fvm": 13
+    },
+    {
+      "name": "Stankovic F.",
+      "team": "VEN",
+      "role": "P",
+      "price": 5,
+      "fvm": 9
+    },
+    {
+      "name": "Bella-Kotchap",
+      "team": "VEN",
+      "role": "D",
+      "price": 5,
+      "fvm": 13
+    },
+    {
+      "name": "Correia T.",
+      "team": "VEN",
+      "role": "D",
+      "price": 5,
+      "fvm": 8
+    },
+    {
+      "name": "Haps",
+      "team": "VEN",
+      "role": "D",
+      "price": 5,
+      "fvm": 10
+    },
+    {
+      "name": "Sohm",
+      "team": "VEN",
+      "role": "C",
+      "price": 5,
+      "fvm": 10
+    },
+    {
+      "name": "Lontani",
+      "team": "PAR",
+      "role": "A",
+      "price": 5,
+      "fvm": 17
+    },
+    {
+      "name": "Favasuli",
+      "team": "NAP",
+      "role": "D",
+      "price": 5,
+      "fvm": 15
+    },
+    {
+      "name": "Tour&#xE8; I.",
+      "team": "MON",
+      "role": "C",
+      "price": 5,
+      "fvm": 14
+    },
+    {
+      "name": "Patterson",
+      "team": "TOR",
+      "role": "D",
+      "price": 5,
+      "fvm": 10
+    },
+    {
+      "name": "Rodriguez R.",
+      "team": "TOR",
+      "role": "D",
+      "price": 5,
+      "fvm": 12
+    },
+    {
+      "name": "De Roon",
+      "team": "ROM",
+      "role": "C",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Vitik",
+      "team": "BOL",
+      "role": "D",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Amondarain",
+      "team": "BOL",
+      "role": "C",
+      "price": 4,
+      "fvm": 11
+    },
+    {
+      "name": "Moro N.",
+      "team": "BOL",
+      "role": "C",
+      "price": 4,
+      "fvm": 14
+    },
+    {
+      "name": "Dominguez B.",
+      "team": "SAS",
+      "role": "C",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Zappa",
+      "team": "CAG",
+      "role": "D",
+      "price": 4,
+      "fvm": 7
+    },
+    {
+      "name": "Prati",
+      "team": "CAG",
+      "role": "C",
+      "price": 4,
+      "fvm": 7
+    },
+    {
+      "name": "Borrelli",
+      "team": "CAG",
+      "role": "A",
+      "price": 4,
+      "fvm": 9
+    },
+    {
+      "name": "Fadera",
+      "team": "CAG",
+      "role": "C",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Addai",
+      "team": "COM",
+      "role": "C",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Morata",
+      "team": "COM",
+      "role": "A",
+      "price": 4,
+      "fvm": 7
+    },
+    {
+      "name": "Parisi",
+      "team": "FIO",
+      "role": "D",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Cittadini",
+      "team": "FRO",
+      "role": "D",
+      "price": 4,
+      "fvm": 11
+    },
+    {
+      "name": "Cichella",
+      "team": "FRO",
+      "role": "C",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Koutsoupias",
+      "team": "FRO",
+      "role": "C",
+      "price": 4,
+      "fvm": 11
+    },
+    {
+      "name": "Martin",
+      "team": "GEN",
+      "role": "D",
+      "price": 4,
+      "fvm": 8
+    },
+    {
+      "name": "Amorim",
+      "team": "GEN",
+      "role": "C",
+      "price": 4,
+      "fvm": 11
+    },
+    {
+      "name": "Meichtry",
+      "team": "GEN",
+      "role": "C",
+      "price": 4,
+      "fvm": 11
+    },
+    {
+      "name": "Traor&#xE8; Hj.",
+      "team": "GEN",
+      "role": "C",
+      "price": 4,
+      "fvm": 9
+    },
+    {
+      "name": "Luis Henrique",
+      "team": "INT",
+      "role": "C",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Mkhitaryan",
+      "team": "INT",
+      "role": "C",
+      "price": 4,
+      "fvm": 9
+    },
+    {
+      "name": "Douglas Luiz",
+      "team": "JUV",
+      "role": "C",
+      "price": 4,
+      "fvm": 13
+    },
+    {
+      "name": "Provstgaard",
+      "team": "LAZ",
+      "role": "D",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Floriani Mussolini",
+      "team": "LAZ",
+      "role": "D",
+      "price": 4,
+      "fvm": 11
+    },
+    {
+      "name": "Dele-Bashiru",
+      "team": "LAZ",
+      "role": "C",
+      "price": 4,
+      "fvm": 13
+    },
+    {
+      "name": "Gaspar K.",
+      "team": "LEC",
+      "role": "D",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Maleh",
+      "team": "LEC",
+      "role": "C",
+      "price": 4,
+      "fvm": 7
+    },
+    {
+      "name": "Ngom",
+      "team": "LEC",
+      "role": "C",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Berisha M.",
+      "team": "LEC",
+      "role": "C",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Gandelman",
+      "team": "LEC",
+      "role": "C",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "N&#x27;Dri",
+      "team": "LEC",
+      "role": "A",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Fofana Y.",
+      "team": "MIL",
+      "role": "C",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Loftus-Cheek",
+      "team": "MIL",
+      "role": "C",
+      "price": 4,
+      "fvm": 15
+    },
+    {
+      "name": "Camarda",
+      "team": "MIL",
+      "role": "A",
+      "price": 4,
+      "fvm": 15
+    },
+    {
+      "name": "Thiam",
+      "team": "MON",
+      "role": "P",
+      "price": 4,
+      "fvm": 4
+    },
+    {
+      "name": "Delli Carri",
+      "team": "MON",
+      "role": "D",
+      "price": 4,
+      "fvm": 11
+    },
+    {
+      "name": "Lucchesi",
+      "team": "MON",
+      "role": "D",
+      "price": 4,
+      "fvm": 11
+    },
+    {
+      "name": "Kouadio",
+      "team": "MON",
+      "role": "D",
+      "price": 4,
+      "fvm": 14
+    },
+    {
+      "name": "Carboni A.",
+      "team": "MON",
+      "role": "D",
+      "price": 4,
+      "fvm": 9
+    },
+    {
+      "name": "Olivera",
+      "team": "NAP",
+      "role": "D",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Folorunsho",
+      "team": "MON",
+      "role": "C",
+      "price": 4,
+      "fvm": 15
+    },
+    {
+      "name": "Lang",
+      "team": "NAP",
+      "role": "A",
+      "price": 4,
+      "fvm": 13
+    },
+    {
+      "name": "Troilo",
+      "team": "PAR",
+      "role": "D",
+      "price": 4,
+      "fvm": 14
+    },
+    {
+      "name": "Valenti",
+      "team": "PAR",
+      "role": "D",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Britschgi",
+      "team": "PAR",
+      "role": "D",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Frigan",
+      "team": "PAR",
+      "role": "A",
+      "price": 4,
+      "fvm": 6
+    },
+    {
+      "name": "Rensch",
+      "team": "ROM",
+      "role": "D",
+      "price": 4,
+      "fvm": 14
+    },
+    {
+      "name": "El Aynaoui",
+      "team": "ROM",
+      "role": "C",
+      "price": 4,
+      "fvm": 13
+    },
+    {
+      "name": "Ilkhan",
+      "team": "TOR",
+      "role": "C",
+      "price": 4,
+      "fvm": 8
+    },
+    {
+      "name": "Bertola",
+      "team": "UDI",
+      "role": "D",
+      "price": 4,
+      "fvm": 9
+    },
+    {
+      "name": "Miller L.",
+      "team": "UDI",
+      "role": "C",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Moreno M.",
+      "team": "VEN",
+      "role": "D",
+      "price": 4,
+      "fvm": 6
+    },
+    {
+      "name": "Sagrado",
+      "team": "VEN",
+      "role": "D",
+      "price": 4,
+      "fvm": 4
+    },
+    {
+      "name": "Adorante",
+      "team": "VEN",
+      "role": "A",
+      "price": 4,
+      "fvm": 5
+    },
+    {
+      "name": "Grillitsch",
+      "team": "FRO",
+      "role": "C",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Terzic",
+      "team": "FRO",
+      "role": "D",
+      "price": 4,
+      "fvm": 5
+    },
+    {
+      "name": "Milik",
+      "team": "JUV",
+      "role": "A",
+      "price": 4,
+      "fvm": 3
+    },
+    {
+      "name": "Cinquegrano",
+      "team": "SAS",
+      "role": "D",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Fatah",
+      "team": "LEC",
+      "role": "A",
+      "price": 4,
+      "fvm": 8
+    },
+    {
+      "name": "Birligea",
+      "team": "FRO",
+      "role": "A",
+      "price": 4,
+      "fvm": 7
+    },
+    {
+      "name": "Ngonge",
+      "team": "MON",
+      "role": "A",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Massolin",
+      "team": "CAG",
+      "role": "C",
+      "price": 4,
+      "fvm": 12
+    },
+    {
+      "name": "Juan Jesus",
+      "team": "VEN",
+      "role": "D",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Nzola",
+      "team": "CAG",
+      "role": "A",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Ehizibue",
+      "team": "GEN",
+      "role": "D",
+      "price": 4,
+      "fvm": 10
+    },
+    {
+      "name": "Kossounou",
+      "team": "ATA",
+      "role": "D",
+      "price": 3,
+      "fvm": 12
+    },
+    {
+      "name": "Sulemana I.",
+      "team": "SAS",
+      "role": "C",
+      "price": 3,
+      "fvm": 7
+    },
+    {
+      "name": "Helland",
+      "team": "BOL",
+      "role": "D",
+      "price": 3,
+      "fvm": 12
+    },
+    {
+      "name": "Smolcic I.",
+      "team": "COM",
+      "role": "D",
+      "price": 3,
+      "fvm": 10
+    },
+    {
+      "name": "Kuhn",
+      "team": "COM",
+      "role": "A",
+      "price": 3,
+      "fvm": 5
+    },
+    {
+      "name": "Pongracic",
+      "team": "FIO",
+      "role": "D",
+      "price": 3,
+      "fvm": 8
+    },
+    {
+      "name": "Ranieri L.",
+      "team": "FIO",
+      "role": "D",
+      "price": 3,
+      "fvm": 10
+    },
+    {
+      "name": "Brescianini",
+      "team": "FIO",
+      "role": "C",
+      "price": 3,
+      "fvm": 11
+    },
+    {
+      "name": "Fabbian",
+      "team": "PAR",
+      "role": "C",
+      "price": 3,
+      "fvm": 12
+    },
+    {
+      "name": "Hasa",
+      "team": "FRO",
+      "role": "C",
+      "price": 3,
+      "fvm": 5
+    },
+    {
+      "name": "Mitaj",
+      "team": "GEN",
+      "role": "D",
+      "price": 3,
+      "fvm": 7
+    },
+    {
+      "name": "Havel",
+      "team": "GEN",
+      "role": "A",
+      "price": 3,
+      "fvm": 5
+    },
+    {
+      "name": "Miretti",
+      "team": "JUV",
+      "role": "C",
+      "price": 3,
+      "fvm": 7
+    },
+    {
+      "name": "Belahyane",
+      "team": "LAZ",
+      "role": "C",
+      "price": 3,
+      "fvm": 3
+    },
+    {
+      "name": "Cataldi",
+      "team": "LAZ",
+      "role": "C",
+      "price": 3,
+      "fvm": 10
+    },
+    {
+      "name": "Gorter",
+      "team": "LEC",
+      "role": "C",
+      "price": 3,
+      "fvm": 12
+    },
+    {
+      "name": "Athekame",
+      "team": "MIL",
+      "role": "D",
+      "price": 3,
+      "fvm": 8
+    },
+    {
+      "name": "Estupinan",
+      "team": "MIL",
+      "role": "D",
+      "price": 3,
+      "fvm": 13
+    },
+    {
+      "name": "Ricci S.",
+      "team": "COM",
+      "role": "C",
+      "price": 3,
+      "fvm": 12
+    },
+    {
+      "name": "Gilmour",
+      "team": "NAP",
+      "role": "C",
+      "price": 3,
+      "fvm": 10
+    },
+    {
+      "name": "Giovane",
+      "team": "NAP",
+      "role": "A",
+      "price": 3,
+      "fvm": 3
+    },
+    {
+      "name": "Lucca",
+      "team": "NAP",
+      "role": "A",
+      "price": 3,
+      "fvm": 12
+    },
+    {
+      "name": "Corvi",
+      "team": "PAR",
+      "role": "P",
+      "price": 3,
+      "fvm": 10
+    },
+    {
+      "name": "Ordonez C.",
+      "team": "PAR",
+      "role": "C",
+      "price": 3,
+      "fvm": 10
+    },
+    {
+      "name": "Sorensen O.",
+      "team": "PAR",
+      "role": "C",
+      "price": 3,
+      "fvm": 12
+    },
+    {
+      "name": "Diallo O.",
+      "team": "PAR",
+      "role": "C",
+      "price": 3,
+      "fvm": 12
+    },
+    {
+      "name": "Elphege",
+      "team": "PAR",
+      "role": "A",
+      "price": 3,
+      "fvm": 10
+    },
+    {
+      "name": "Angelino",
+      "team": "ROM",
+      "role": "D",
+      "price": 3,
+      "fvm": 12
+    },
+    {
+      "name": "Walukiewicz",
+      "team": "SAS",
+      "role": "D",
+      "price": 3,
+      "fvm": 10
+    },
+    {
+      "name": "Lipani",
+      "team": "SAS",
+      "role": "C",
+      "price": 3,
+      "fvm": 5
+    },
+    {
+      "name": "Ilic",
+      "team": "LEC",
+      "role": "C",
+      "price": 3,
+      "fvm": 16
+    },
+    {
+      "name": "Aboukhlal",
+      "team": "TOR",
+      "role": "C",
+      "price": 3,
+      "fvm": 5
+    },
+    {
+      "name": "Kulenovic",
+      "team": "TOR",
+      "role": "A",
+      "price": 3,
+      "fvm": 7
+    },
+    {
+      "name": "Kabasele",
+      "team": "UDI",
+      "role": "D",
+      "price": 3,
+      "fvm": 12
+    },
+    {
+      "name": "Ebosse",
+      "team": "UDI",
+      "role": "D",
+      "price": 3,
+      "fvm": 5
+    },
+    {
+      "name": "Zanoli",
+      "team": "UDI",
+      "role": "D",
+      "price": 3,
+      "fvm": 10
+    },
+    {
+      "name": "Arizala",
+      "team": "UDI",
+      "role": "D",
+      "price": 3,
+      "fvm": 8
+    },
+    {
+      "name": "Odenthal",
+      "team": "SAS",
+      "role": "D",
+      "price": 3,
+      "fvm": 7
+    },
+    {
+      "name": "Lulli",
+      "team": "ROM",
+      "role": "D",
+      "price": 3,
+      "fvm": 10
+    },
+    {
+      "name": "Gagliardini",
+      "team": "CAG",
+      "role": "C",
+      "price": 3,
+      "fvm": 8
+    },
+    {
+      "name": "Drameh",
+      "team": "GEN",
+      "role": "D",
+      "price": 3,
+      "fvm": 9
+    },
+    {
+      "name": "Fernandez T.",
+      "team": "VEN",
+      "role": "C",
+      "price": 3,
+      "fvm": 8
+    },
+    {
+      "name": "Pessina Mas.",
+      "team": "BOL",
+      "role": "P",
+      "price": 2,
+      "fvm": 1
+    },
+    {
+      "name": "Casale",
+      "team": "BOL",
+      "role": "D",
+      "price": 2,
+      "fvm": 5
+    },
+    {
+      "name": "Alhassane",
+      "team": "BOL",
+      "role": "D",
+      "price": 2,
+      "fvm": 6
+    },
+    {
+      "name": "El Azzouzi O.",
+      "team": "BOL",
+      "role": "C",
+      "price": 2,
+      "fvm": 10
+    },
+    {
+      "name": "Idrissi R.",
+      "team": "CAG",
+      "role": "D",
+      "price": 2,
+      "fvm": 3
+    },
+    {
+      "name": "Joao Mario",
+      "team": "FIO",
+      "role": "D",
+      "price": 2,
+      "fvm": 12
+    },
+    {
+      "name": "Akpoguma",
+      "team": "FRO",
+      "role": "D",
+      "price": 2,
+      "fvm": 6
+    },
+    {
+      "name": "Gelli F.",
+      "team": "FRO",
+      "role": "C",
+      "price": 2,
+      "fvm": 6
+    },
+    {
+      "name": "Otoa",
+      "team": "GEN",
+      "role": "D",
+      "price": 2,
+      "fvm": 5
+    },
+    {
+      "name": "Sabelli",
+      "team": "GEN",
+      "role": "D",
+      "price": 2,
+      "fvm": 5
+    },
+    {
+      "name": "Stankovic A.",
+      "team": "INT",
+      "role": "C",
+      "price": 2,
+      "fvm": 7
+    },
+    {
+      "name": "Ekhator",
+      "team": "JUV",
+      "role": "A",
+      "price": 2,
+      "fvm": 7
+    },
+    {
+      "name": "Bakoune",
+      "team": "MON",
+      "role": "D",
+      "price": 2,
+      "fvm": 4
+    },
+    {
+      "name": "Colombo L.",
+      "team": "MON",
+      "role": "C",
+      "price": 2,
+      "fvm": 4
+    },
+    {
+      "name": "Petagna",
+      "team": "MON",
+      "role": "A",
+      "price": 2,
+      "fvm": 5
+    },
+    {
+      "name": "Marin R.",
+      "team": "NAP",
+      "role": "D",
+      "price": 2,
+      "fvm": 13
+    },
+    {
+      "name": "Cremaschi",
+      "team": "PAR",
+      "role": "C",
+      "price": 2,
+      "fvm": 3
+    },
+    {
+      "name": "Cand&#xE8;",
+      "team": "SAS",
+      "role": "D",
+      "price": 2,
+      "fvm": 7
+    },
+    {
+      "name": "Palma",
+      "team": "UDI",
+      "role": "D",
+      "price": 2,
+      "fvm": 11
+    },
+    {
+      "name": "Zarraga",
+      "team": "UDI",
+      "role": "C",
+      "price": 2,
+      "fvm": 4
+    },
+    {
+      "name": "Chakvetadze",
+      "team": "UDI",
+      "role": "C",
+      "price": 2,
+      "fvm": 6
+    },
+    {
+      "name": "Buksa",
+      "team": "UDI",
+      "role": "A",
+      "price": 2,
+      "fvm": 4
+    },
+    {
+      "name": "Halhal",
+      "team": "VEN",
+      "role": "D",
+      "price": 2,
+      "fvm": 10
+    },
+    {
+      "name": "Schingtienne",
+      "team": "VEN",
+      "role": "D",
+      "price": 2,
+      "fvm": 10
+    },
+    {
+      "name": "Sverko",
+      "team": "VEN",
+      "role": "D",
+      "price": 2,
+      "fvm": 7
+    },
+    {
+      "name": "Franjic",
+      "team": "VEN",
+      "role": "D",
+      "price": 2,
+      "fvm": 7
+    },
+    {
+      "name": "Helgason",
+      "team": "VEN",
+      "role": "C",
+      "price": 2,
+      "fvm": 3
+    },
+    {
+      "name": "Lauberbach",
+      "team": "VEN",
+      "role": "A",
+      "price": 2,
+      "fvm": 1
+    },
+    {
+      "name": "Forson O.",
+      "team": "MON",
+      "role": "C",
+      "price": 2,
+      "fvm": 1
+    },
+    {
+      "name": "Goglichidze",
+      "team": "MON",
+      "role": "D",
+      "price": 2,
+      "fvm": 5
+    },
+    {
+      "name": "Foe Ondoa",
+      "team": "MON",
+      "role": "C",
+      "price": 2,
+      "fvm": 2
+    },
+    {
+      "name": "Tchato",
+      "team": "FRO",
+      "role": "D",
+      "price": 2,
+      "fvm": 6
+    },
+    {
+      "name": "Kambwala",
+      "team": "COM",
+      "role": "D",
+      "price": 2,
+      "fvm": 7
+    },
+    {
+      "name": "Drobnic",
+      "team": "PAR",
+      "role": "D",
+      "price": 2,
+      "fvm": 1
+    },
+    {
+      "name": "Jovanovic",
+      "team": "UDI",
+      "role": "C",
+      "price": 2,
+      "fvm": 5
+    },
+    {
+      "name": "Enem",
+      "team": "BOL",
+      "role": "A",
+      "price": 2,
+      "fvm": 4
+    },
+    {
+      "name": "Sierro",
+      "team": "PAR",
+      "role": "C",
+      "price": 2,
+      "fvm": 1
+    },
+    {
+      "name": "Rossi F.",
+      "team": "ATA",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Sportiello",
+      "team": "ATA",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Happonen",
+      "team": "BOL",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "De Silvestri",
+      "team": "BOL",
+      "role": "D",
+      "price": 1,
+      "fvm": 4
+    },
+    {
+      "name": "Ciocci",
+      "team": "CAG",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Sherri",
+      "team": "CAG",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Raterink",
+      "team": "CAG",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Liteta",
+      "team": "CAG",
+      "role": "C",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Albarracin",
+      "team": "CAG",
+      "role": "A",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Trepy",
+      "team": "CAG",
+      "role": "A",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Tornqvist",
+      "team": "MON",
+      "role": "P",
+      "price": 1,
+      "fvm": 3
+    },
+    {
+      "name": "Vigorito",
+      "team": "COM",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Goldaniga",
+      "team": "COM",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Cuenca A.",
+      "team": "COM",
+      "role": "D",
+      "price": 1,
+      "fvm": 8
+    },
+    {
+      "name": "Van Der Brempt",
+      "team": "SAS",
+      "role": "D",
+      "price": 1,
+      "fvm": 11
+    },
+    {
+      "name": "Lahdo",
+      "team": "COM",
+      "role": "C",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Azon",
+      "team": "COM",
+      "role": "A",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Christensen O.",
+      "team": "FIO",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Lezzerini",
+      "team": "FIO",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Desplanches",
+      "team": "FRO",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Lolic",
+      "team": "FRO",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Amey",
+      "team": "FRO",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Gelli J.",
+      "team": "FRO",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Oyono J.",
+      "team": "FRO",
+      "role": "D",
+      "price": 1,
+      "fvm": 2
+    },
+    {
+      "name": "Corrado",
+      "team": "FRO",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "El Azzouzi A.",
+      "team": "FRO",
+      "role": "C",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Kone B.",
+      "team": "FRO",
+      "role": "C",
+      "price": 1,
+      "fvm": 3
+    },
+    {
+      "name": "Sommariva",
+      "team": "GEN",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Stolz",
+      "team": "GEN",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Vogliacco",
+      "team": "GEN",
+      "role": "D",
+      "price": 1,
+      "fvm": 2
+    },
+    {
+      "name": "Matturro",
+      "team": "GEN",
+      "role": "D",
+      "price": 1,
+      "fvm": 2
+    },
+    {
+      "name": "Puczka",
+      "team": "GEN",
+      "role": "D",
+      "price": 1,
+      "fvm": 3
+    },
+    {
+      "name": "Venturino",
+      "team": "GEN",
+      "role": "C",
+      "price": 1,
+      "fvm": 4
+    },
+    {
+      "name": "Di Gennaro",
+      "team": "INT",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Provedel",
+      "team": "INT",
+      "role": "P",
+      "price": 1,
+      "fvm": 5
+    },
+    {
+      "name": "Pinsoglio",
+      "team": "JUV",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Rugani",
+      "team": "JUV",
+      "role": "D",
+      "price": 1,
+      "fvm": 3
+    },
+    {
+      "name": "Cabal",
+      "team": "JUV",
+      "role": "D",
+      "price": 1,
+      "fvm": 4
+    },
+    {
+      "name": "Motta",
+      "team": "LAZ",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Renzetti",
+      "team": "LAZ",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Patric",
+      "team": "LAZ",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Lazzari",
+      "team": "LAZ",
+      "role": "D",
+      "price": 1,
+      "fvm": 5
+    },
+    {
+      "name": "Pellegrini Lu.",
+      "team": "LAZ",
+      "role": "D",
+      "price": 1,
+      "fvm": 7
+    },
+    {
+      "name": "Przyborek",
+      "team": "LAZ",
+      "role": "C",
+      "price": 1,
+      "fvm": 5
+    },
+    {
+      "name": "Fruchtl",
+      "team": "LEC",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Samooja",
+      "team": "LEC",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Jean",
+      "team": "LEC",
+      "role": "D",
+      "price": 1,
+      "fvm": 4
+    },
+    {
+      "name": "Perez M.",
+      "team": "LEC",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Ndaba",
+      "team": "LEC",
+      "role": "D",
+      "price": 1,
+      "fvm": 5
+    },
+    {
+      "name": "Kaba",
+      "team": "LEC",
+      "role": "C",
+      "price": 1,
+      "fvm": 2
+    },
+    {
+      "name": "Fofana Sa.",
+      "team": "LEC",
+      "role": "C",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Terracciano",
+      "team": "MIL",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Torriani",
+      "team": "MIL",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Diawara S.",
+      "team": "MIL",
+      "role": "D",
+      "price": 1,
+      "fvm": 4
+    },
+    {
+      "name": "Pizzignacco",
+      "team": "MON",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Strajnar",
+      "team": "MON",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Antov",
+      "team": "MON",
+      "role": "D",
+      "price": 1,
+      "fvm": 2
+    },
+    {
+      "name": "Ciurria",
+      "team": "MON",
+      "role": "C",
+      "price": 1,
+      "fvm": 6
+    },
+    {
+      "name": "Contini",
+      "team": "NAP",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Marianucci",
+      "team": "NAP",
+      "role": "D",
+      "price": 1,
+      "fvm": 3
+    },
+    {
+      "name": "Mazzocchi",
+      "team": "VEN",
+      "role": "D",
+      "price": 1,
+      "fvm": 10
+    },
+    {
+      "name": "Ndiaye",
+      "team": "PAR",
+      "role": "D",
+      "price": 1,
+      "fvm": 8
+    },
+    {
+      "name": "Carboni F.",
+      "team": "PAR",
+      "role": "D",
+      "price": 1,
+      "fvm": 3
+    },
+    {
+      "name": "De Marzi",
+      "team": "ROM",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Gollini",
+      "team": "ROM",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Ziolkowski",
+      "team": "MON",
+      "role": "D",
+      "price": 1,
+      "fvm": 8
+    },
+    {
+      "name": "Vaz",
+      "team": "ROM",
+      "role": "A",
+      "price": 1,
+      "fvm": 4
+    },
+    {
+      "name": "Russo A.",
+      "team": "SAS",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Turati",
+      "team": "SAS",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Missori",
+      "team": "SAS",
+      "role": "D",
+      "price": 1,
+      "fvm": 2
+    },
+    {
+      "name": "Pieragnolo",
+      "team": "SAS",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Boloca",
+      "team": "SAS",
+      "role": "C",
+      "price": 1,
+      "fvm": 5
+    },
+    {
+      "name": "Iannoni",
+      "team": "SAS",
+      "role": "C",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Moro L.",
+      "team": "SAS",
+      "role": "A",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Mascardi",
+      "team": "TOR",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Paleari",
+      "team": "TOR",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Siviero",
+      "team": "TOR",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Biraghi",
+      "team": "TOR",
+      "role": "D",
+      "price": 1,
+      "fvm": 5
+    },
+    {
+      "name": "Anjorin",
+      "team": "TOR",
+      "role": "C",
+      "price": 1,
+      "fvm": 4
+    },
+    {
+      "name": "Padelli",
+      "team": "UDI",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Piana",
+      "team": "UDI",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Mlacic",
+      "team": "UDI",
+      "role": "D",
+      "price": 1,
+      "fvm": 3
+    },
+    {
+      "name": "Camara A.",
+      "team": "UDI",
+      "role": "C",
+      "price": 1,
+      "fvm": 3
+    },
+    {
+      "name": "Bayo V.",
+      "team": "UDI",
+      "role": "A",
+      "price": 1,
+      "fvm": 3
+    },
+    {
+      "name": "Grandi",
+      "team": "VEN",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Pozzi",
+      "team": "VEN",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Gomes",
+      "team": "VEN",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Bjarkason",
+      "team": "VEN",
+      "role": "C",
+      "price": 1,
+      "fvm": 3
+    },
+    {
+      "name": "Dagasso",
+      "team": "VEN",
+      "role": "C",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Duncan",
+      "team": "VEN",
+      "role": "C",
+      "price": 1,
+      "fvm": 4
+    },
+    {
+      "name": "Lisman",
+      "team": "VEN",
+      "role": "A",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Vismara",
+      "team": "ATA",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Satalino",
+      "team": "SAS",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Aurelio",
+      "team": "CAG",
+      "role": "D",
+      "price": 1,
+      "fvm": 5
+    },
+    {
+      "name": "Penev",
+      "team": "LEC",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Pisseri",
+      "team": "FRO",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Radunovic",
+      "team": "CAG",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "De Martis",
+      "team": "PAR",
+      "role": "A",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Montip&#xF2;",
+      "team": "VEN",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Omar Fayed",
+      "team": "FRO",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Bleve",
+      "team": "LEC",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Laerke",
+      "team": "LEC",
+      "role": "C",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Comotto",
+      "team": "MIL",
+      "role": "C",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Macchioni",
+      "team": "SAS",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Mout",
+      "team": "MON",
+      "role": "C",
+      "price": 1,
+      "fvm": 12
+    },
+    {
+      "name": "Terracciano F.",
+      "team": "MIL",
+      "role": "D",
+      "price": 1,
+      "fvm": 4
+    },
+    {
+      "name": "Ciervo",
+      "team": "CAG",
+      "role": "C",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Grabara",
+      "team": "JUV",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Maye",
+      "team": "MON",
+      "role": "D",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Mrozek",
+      "team": "UDI",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Dembel&#xE8; A.",
+      "team": "LEC",
+      "role": "D",
+      "price": 1,
+      "fvm": 2
+    },
+    {
+      "name": "Ghidotti",
+      "team": "PAR",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Robinho Junior",
+      "team": "GEN",
+      "role": "A",
+      "price": 1,
+      "fvm": 2
+    },
+    {
+      "name": "Pompei",
+      "team": "ATA",
+      "role": "P",
+      "price": 1,
+      "fvm": 1
+    },
+    {
+      "name": "Libra",
+      "team": "BOL",
+      "role": "C",
+      "price": 1,
+      "fvm": 1
+    }
+  ]
+}
