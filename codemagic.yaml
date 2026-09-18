@@ -1,6 +1,6 @@
 workflows:
   react-native-android:
-    name: React Native Android APK Release
+    name: React Native Android APK Release Fix
     max_build_duration: 60
     instance_type: mac_mini_m2
     environment:
@@ -14,12 +14,15 @@ workflows:
           if [ ! -d "android" ]; then
             npx expo prebuild --platform android --clean
           fi
+      - name: Fix signing configurations
+        script: |
+          # Forza Android a usare la chiave di debug anche per la versione release, evitando l'errore
+          sed -i '' 's/signingConfig signingConfigs.release/signingConfig signingConfigs.debug/g' android/app/build.gradle || sed -i 's/signingConfig signingConfigs.release/signingConfig signingConfigs.debug/g' android/app/build.gradle
       - name: Fix execution permissions
         script: |
           cd android && chmod +x gradlew
-      - name: Build Android APK Release
+      - name: Build Android APK
         script: |
-          # Questo comando compila l'app definitiva includendo tutto il codice al suo interno
           cd android && ./gradlew assembleRelease
     artifacts:
       - android/app/build/outputs/apk/release/*.apk
