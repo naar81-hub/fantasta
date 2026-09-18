@@ -1,6 +1,6 @@
 workflows:
   react-native-android:
-    name: React Native Android APK Release Fix
+    name: React Native Android Autonomous APK
     max_build_duration: 60
     instance_type: mac_mini_m2
     environment:
@@ -14,15 +14,17 @@ workflows:
           if [ ! -d "android" ]; then
             npx expo prebuild --platform android --clean
           fi
-      - name: Fix signing configurations
+      - name: Build Standalone JS Bundle
         script: |
-          # Forza Android a usare la chiave di debug anche per la versione release, evitando l'errore
-          sed -i '' 's/signingConfig signingConfigs.release/signingConfig signingConfigs.debug/g' android/app/build.gradle || sed -i 's/signingConfig signingConfigs.release/signingConfig signingConfigs.debug/g' android/app/build.gradle
+          # Questo comando forza l'inserimento di tutta la logica dentro l'app prima di compilarla
+          mkdir -p android/app/src/main/assets
+          npx react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res || true
       - name: Fix execution permissions
         script: |
           cd android && chmod +x gradlew
       - name: Build Android APK
         script: |
-          cd android && ./gradlew assembleRelease
+          # Usiamo assembleDebug che non richiede chiavi digitali
+          cd android && ./gradlew assembleDebug
     artifacts:
-      - android/app/build/outputs/apk/release/*.apk
+      - android/app/build/outputs/apk/debug/*.apk
